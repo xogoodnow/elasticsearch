@@ -1,5 +1,5 @@
 pr: 102599
-summary: "Bugfix: create the tmp dir if it doesn't exist"
+summary: "Recreate the Elasticsearch private temporary directory if it doesn't exist when an ML job is opened"
 area: Machine Learning
 type: bug
 issues: []
